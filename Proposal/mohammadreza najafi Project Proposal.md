@@ -1,7 +1,7 @@
 # Graph Mining Course Project Proposal
 
-**Submission Date:** November 18, 2025
-**Course:** Graph Mining \[4041]
+**Submission Date:** November 18, 2025  
+**Course:** Graph Mining \[4041]  
 **Instructor:** Dr. Zeinab Maleki
 
 ## Student Information
@@ -86,7 +86,8 @@ This fusion allows the model to leverage both neighborhood information and struc
 3. Grover, A., \& Leskovec, J. (2016). *node2vec: Scalable Feature Learning for Networks*. KDD.
 4. Mernyei, P., \& Cangea, C. (2020). *Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks*. arXiv:2007.02901.
 
-**Student Signature:** Mohammadreza Najafi
+**Student Signature:** Mohammadreza Najafi  
 **Date:** November 18, 2025
+
 
 
