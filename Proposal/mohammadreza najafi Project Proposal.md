@@ -1,6 +1,6 @@
 # Graph Mining Course Project Proposal
 
-**Submission Date:** November 4, 2025
+**Submission Date:** November 18, 2025
 **Course:** Graph Mining \[4041]
 **Instructor:** Dr. Zeinab Maleki
 
@@ -87,5 +87,6 @@ This fusion allows the model to leverage both neighborhood information and struc
 4. Mernyei, P., \& Cangea, C. (2020). *Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks*. arXiv:2007.02901.
 
 **Student Signature:** Mohammadreza Najafi
-**Date:** November 4, 2025
+**Date:** November 18, 2025
+
 
